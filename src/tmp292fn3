@@ -1,5 +1,8 @@
 use std::io;
 
+f
+
+
 fn main() {
     println!("Guess the number!");
 
@@ -12,5 +15,4 @@ fn main() {
         .expect("Failed to read line");
 
     println!("You guessed: {}", guess);
-
 }
